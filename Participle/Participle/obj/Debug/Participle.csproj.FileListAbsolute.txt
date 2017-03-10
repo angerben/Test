@@ -1,0 +1,15 @@
+D:\PanGu\Participle\Participle\bin\Debug\Participle.exe.config
+D:\PanGu\Participle\Participle\bin\Debug\Participle.exe
+D:\PanGu\Participle\Participle\bin\Debug\Participle.pdb
+D:\PanGu\Participle\Participle\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PanGu\Participle\Participle\bin\Debug\Lucene.Net.dll
+D:\PanGu\Participle\Participle\bin\Debug\PanGu.dll
+D:\PanGu\Participle\Participle\bin\Debug\PanGu.HighLight.dll
+D:\PanGu\Participle\Participle\bin\Debug\PanGu.Lucene.Analyzer.dll
+D:\PanGu\Participle\Participle\bin\Debug\Lucene.Net.pdb
+D:\PanGu\Participle\Participle\bin\Debug\Lucene.Net.xml
+D:\PanGu\Participle\Participle\bin\Debug\PanGu.pdb
+D:\PanGu\Participle\Participle\bin\Debug\PanGu.HighLight.pdb
+D:\PanGu\Participle\Participle\obj\Debug\Participle.csprojResolveAssemblyReference.cache
+D:\PanGu\Participle\Participle\obj\Debug\Participle.exe
+D:\PanGu\Participle\Participle\obj\Debug\Participle.pdb
